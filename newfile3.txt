@@ -1,0 +1,6 @@
+hello,
+this is new file 3,
+merge from branch to master,
+........................
+
+
